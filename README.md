@@ -21,6 +21,8 @@ To run the chatbot, execute the following script after cloning the repository:
 python Final_program_chatbot_voicereg_voiceemopred.py
 ```
 
+---
+
 ### Interaction
 - Speak to the chatbot using your microphone.
 - The chatbot will analyze your emotion and respond accordingly.
